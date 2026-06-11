@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='O-2018.09-2 linux64' PARAM_COUNT=0
+.TITLE '*** t network***'
+ tr               tf               pavg             temper          
+ alter#          
+  7.302e-12        7.077e-12       -8.307e-06         25.0000       
+1               
