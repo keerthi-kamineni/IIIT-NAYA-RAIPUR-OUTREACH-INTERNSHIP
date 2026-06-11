@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='O-2018.09-2 linux64' PARAM_COUNT=0
+.TITLE '*** pi network***'
+ tr               tf               pavg             temper          
+ alter#          
+  9.054e-12        1.020e-11       -6.906e-06         25.0000       
+1               
