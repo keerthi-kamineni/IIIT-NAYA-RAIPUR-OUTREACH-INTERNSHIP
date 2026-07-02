@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Fri Jun 19 11:23:43 2026 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/vlsi/OIP_19_06/defectfree/schematic/sch.oa.cdslck
-TimeEditLocked                 Fri Jun 19 15:15:05 2026 EDT
+FilePathUsedToEditLock         /home/vlsi/OIP_19_06/defectedRLP/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Jun 19 15:49:13 2026 EDT
